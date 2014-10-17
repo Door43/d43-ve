@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[ve:home|Door43 (ve)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-ve|d43-ve repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-ve/archive/master.zip|d43-ve.zip]]
+
+**Recent Changes**
+{{changes>ns = ve}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/ve|Ethnologue data]]
+
